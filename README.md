@@ -1,766 +1,879 @@
 <div align="center">
 
-# ⚡ RAMKUMAR
+⚡ RAMKUMAR
 
-### `DEVOPS ENGINEER` · `CLOUD INFRASTRUCTURE` · `KUBERNETES` · `CI/CD`
+DEVOPS ENGINEER · CLOUD INFRASTRUCTURE · KUBERNETES · CI/CD · PLATFORM ENGINEERING
 
-**Designing reliable infrastructure. Automating software delivery. Building cloud-native platforms.**
+Designing reliable infrastructure. Automating software delivery. Building cloud-native platforms.
 
 <br/>
 
 <a href="https://github.com/ramdrazler1">
-<img src="https://img.shields.io/badge/GitHub-ramdrazler1-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ramdrazler1-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/ramdrazler1?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-7-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-7-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 <a href="https://kubernetes.io/">
-<img src="https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+%7C+CI%2FCD+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Infrastructure+as+Code+%7C+Automation+%7C+Observability;Build+%E2%86%92+Test+%E2%86%92+Secure+%E2%86%92+Deploy+%E2%86%92+Observe;Engineering+systems+that+scale+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Infrastructure+%7C+CI%2FCD+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Infrastructure+as+Code+%7C+Automation+%7C+Observability;Build+%E2%86%92+Test+%E2%86%92+Secure+%E2%86%92+Deploy+%E2%86%92+Observe;Engineering+systems+that+scale+%E2%9A%A1" />
 
 </div>
 
----
-
-## 🧭 Engineering Profile
-
-```text
-                    ┌─────────────────────────────────────┐
-                    │         CLOUD PLATFORM              │
-                    │                                     │
-                    │        AWS / EKS / EC2 / VPC        │
-                    └──────────────────┬──────────────────┘
-                                       │
-                                       ▼
-                    ┌─────────────────────────────────────┐
-                    │       INFRASTRUCTURE AS CODE        │
-                    │                                     │
-                    │   Terraform / Terragrunt / Ansible  │
-                    └──────────────────┬──────────────────┘
-                                       │
-                                       ▼
-              ┌───────────────────────────────────────────────┐
-              │                 CI / CD                       │
-              │                                               │
-              │ Jenkins │ GitHub Actions │ Docker │ Nexus     │
-              └───────────────────────┬───────────────────────┘
-                                      │
-                                      ▼
-              ┌───────────────────────────────────────────────┐
-              │                KUBERNETES                     │
-              │                                               │
-              │ EKS │ Helm │ HPA │ KEDA │ Karpenter │ Istio  │
-              └───────────────────────┬───────────────────────┘
-                                      │
-                                      ▼
-              ┌───────────────────────────────────────────────┐
-              │              OBSERVABILITY                    │
-              │                                               │
-              │ Prometheus │ Grafana │ Alerting │ Logs        │
-              └───────────────────────┬───────────────────────┘
-                                      │
-                                      ▼
-                         ┌────────────────────────┐
-                         │  RELIABLE PRODUCTION   │
-                         │  SYSTEMS & PLATFORMS   │
-                         └────────────────────────┘
-```
-
----
-
-# 👨‍💻 About Me
-
-I'm a **DevOps Engineer focused on cloud infrastructure, CI/CD engineering, Kubernetes platforms, infrastructure automation, and production reliability**.
-
-My approach to DevOps goes beyond simply deploying applications.
-
-I focus on designing systems where:
-
-* Developers can ship faster
-* Infrastructure is reproducible
-* Deployments are automated
-* Failures are observable
-* Security is integrated into delivery
-* Kubernetes workloads scale automatically
-* Infrastructure costs are continuously optimized
-* Operational tasks are replaced with automation
-
-### My engineering mindset
-
-> **Automate repetitive work. Measure everything important. Secure the delivery path. Design for failure. Fix root causes.**
-
----
-
-# 🏗️ What I Build
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SOFTWARE DELIVERY                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Developer                                                    │
-│      │                                                       │
-│      ▼                                                       │
-│  Git / Pull Request                                           │
-│      │                                                       │
-│      ▼                                                       │
-│  CI Validation                                                │
-│      ├── Unit Tests                                           │
-│      ├── Coverage                                             │
-│      ├── Quality Checks                                       │
-│      └── Security Validation                                  │
-│      │                                                       │
-│      ▼                                                       │
-│  Docker Build                                                 │
-│      │                                                       │
-│      ▼                                                       │
-│  Container Registry                                           │
-│      │                                                       │
-│      ▼                                                       │
-│  Kubernetes / Amazon EKS                                      │
-│      │                                                       │
-│      ├── Deployment                                            │
-│      ├── Scaling                                               │
-│      ├── Scheduling                                            │
-│      └── Rollout / Recovery                                    │
-│      │                                                       │
-│      ▼                                                       │
-│  Observability                                                │
-│      ├── Metrics                                               │
-│      ├── Logs                                                  │
-│      ├── Alerts                                                │
-│      └── Dashboards                                            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# ☁️ Cloud Architecture
-
-## AWS
-
-My primary cloud focus is **Amazon Web Services**, particularly infrastructure supporting containerized applications and automated delivery.
-
-### AWS areas
-
-| Domain         | Technologies                             |
-| -------------- | ---------------------------------------- |
-| Compute        | EC2                                      |
-| Containers     | EKS, ECR                                 |
-| Networking     | VPC, ALB, Private Subnets                |
-| Identity       | IAM                                      |
-| Infrastructure | Terraform                                |
-| DNS            | Route 53                                 |
-| Monitoring     | CloudWatch                               |
-| Scaling        | Auto Scaling, Karpenter                  |
-| Security       | IAM, Security Groups, private networking |
-| Delivery       | Jenkins, GitHub Actions, ECR             |
-
-### Architecture mindset
-
-```text
-                         AWS CLOUD
-                             │
-             ┌───────────────┴────────────────┐
-             │                                │
-             ▼                                ▼
-        NETWORKING                         IDENTITY
-             │                                │
-       ┌─────┴─────┐                    ┌─────┴─────┐
-       │           │                    │           │
-      VPC       Private               IAM       Policies
-       │         Subnets                │
-       │                                │
-       ▼                                ▼
-      ALB                         Least Privilege
-       │
-       ▼
-    Amazon EKS
-       │
-       ├──────────────┐
-       │              │
-       ▼              ▼
-    Pods          Karpenter
-       │              │
-       │              ▼
-       │          EC2 Nodes
-       │
-       ▼
-  Prometheus
-       │
-       ▼
-    Grafana
-```
-
----
-
-# ☸️ Kubernetes Engineering
-
-I work with Kubernetes from both the **application workload** and **cluster infrastructure** perspectives.
-
-### Kubernetes stack
-
-```text
-                         EKS CLUSTER
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        APPLICATION       NETWORKING        SCALING
-             │                │                │
-       Deployments        Services          HPA
-       StatefulSets       Ingress           KEDA
-       Jobs               Gateway API       Karpenter
-       CronJobs           HTTPRoute
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                       OBSERVABILITY
-                              │
-                  ┌───────────┴───────────┐
-                  │                       │
-             Prometheus                Grafana
-                  │                       │
-                  └───────────┬───────────┘
-                              ▼
-                           ALERTING
-```
-
-### Kubernetes areas
-
-* Amazon EKS
-* Kubernetes upgrades
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Probes
-* Resource requests / limits
-* HPA
-* KEDA
-* Karpenter
-* Helm
-* Gateway API
-* HTTPRoute
-* Ingress
-* Cluster add-ons
-* Node scheduling
-* Pod lifecycle
-* Rolling deployments
-* Rollbacks
-* Troubleshooting
-* Capacity planning
-* Cost optimization
-
----
-
-# 📈 Kubernetes Scaling Strategy
-
-A modern Kubernetes platform needs multiple layers of scaling.
-
-```text
-                    APPLICATION LOAD
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │     HPA     │
-                    │             │
-                    │ Pod Scaling │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    KEDA     │
-                    │             │
-                    │ Event Scale │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ KARPENTER   │
-                    │             │
-                    │ Node Scale  │
-                    └──────┬──────┘
-                           │
-                           ▼
-                       AWS EC2
-```
-
-### Objective
-
-**Scale workloads when required, provision infrastructure when required, and avoid paying for unnecessary capacity.**
-
----
-
-# 🚀 CI/CD Architecture
-
-CI/CD is one of my strongest engineering areas.
-
-```text
-                    ┌──────────────┐
-                    │   Developer  │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │     Git      │
-                    └──────┬───────┘
-                           │
-                           ▼
-                 ┌─────────────────────┐
-                 │    CI PIPELINE      │
-                 ├─────────────────────┤
-                 │ Checkout            │
-                 │ Dependencies        │
-                 │ Unit Tests          │
-                 │ Coverage            │
-                 │ Quality Gates       │
-                 │ Security            │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   Docker Build      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ Container Registry  │
-                 │        ECR          │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   Deploy to EKS     │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ Observability / SRE │
-                 └─────────────────────┘
-```
-
----
-
-# 🔥 Jenkins Engineering
-
-I work extensively with Jenkins and Groovy-based CI/CD automation.
-
-### Jenkins capabilities
-
-* Declarative pipelines
-* Scripted pipelines
-* Shared Libraries
-* Multibranch pipelines
-* Remote Jenkinsfiles
-* Dynamic build agents
-* EC2-based build infrastructure
-* Pipeline approvals
-* Lockable resources
-* Timeouts
-* Artifact publishing
-* Docker builds
-* ECR integration
-* Slack notifications
-* Automated deployment workflows
-* Build troubleshooting
-
-### Pipeline philosophy
-
-```text
-                    Jenkins
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-      Build           Test          Security
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                       ▼
-                  Package/Image
-                       │
-                       ▼
-                    Registry
-                       │
-                       ▼
-                    Deploy
-                       │
-                       ▼
-                   Validate
-                       │
-                       ▼
-                  Notify / Monitor
-```
-
----
-
-# 🐙 GitHub Actions
-
-I use GitHub Actions for automated repository-level workflows.
-
-Areas include:
-
-* Pull Request validation
-* Unit testing
-* Code coverage
-* Artifact publishing
-* Self-hosted runners
-* Branch-based workflows
-* Quality gates
-* CI automation
-* Merge protection
-
-### PR quality gate
-
-```text
-Pull Request
-     │
-     ▼
-GitHub Actions
-     │
-     ├── Checkout
-     ├── Dependencies
-     ├── Unit Tests
-     ├── Coverage
-     └── Quality Gate
-             │
-       ┌─────┴─────┐
-       │           │
-     FAIL        PASS
-       │           │
-       ▼           ▼
-    Block       Continue
-    Merge       Workflow
-```
-
----
-
-# 🐳 Container Engineering
-
-### Docker
-
-```text
-Source
-  │
-  ▼
-Dockerfile
-  │
-  ├── BuildKit
-  ├── SSH Forwarding
-  ├── Private Dependencies
-  ├── Build Arguments
-  └── Environment Configuration
-  │
-  ▼
-Docker Image
-  │
-  ▼
-Registry
-  │
-  ▼
-Kubernetes
-```
-
-Areas of focus:
-
-* Dockerfile optimization
-* Multi-stage builds
-* BuildKit
-* Private package dependencies
-* SSH authentication
-* Environment management
-* Image size optimization
-* Container troubleshooting
-* Docker Compose
-* Registry authentication
-* Runtime configuration
-
----
-
-# 🏗️ Infrastructure as Code
-
-## Terraform
-
-Infrastructure should be:
-
-```text
-Version Controlled
-        ↓
-Reviewable
-        ↓
-Reproducible
-        ↓
-Automated
-        ↓
-Auditable
-```
-
-### Terraform areas
-
-* AWS infrastructure
-* EKS
-* EC2
-* IAM
-* Networking
-* Security groups
-* Load balancers
-* EKS add-ons
-* Environment management
-* Reusable modules
-
-### Terragrunt
-
-* DRY infrastructure
-* Environment separation
-* Remote state
-* Reusable configurations
-* Multi-environment deployments
-
-### Ansible
-
-* Server configuration
-* Package installation
-* Application configuration
-* Operational automation
-* Environment preparation
-
----
-
-# 📊 Observability & Reliability
-
-Production systems need visibility.
-
-My observability stack includes:
-
-| Layer          | Tools                   |
-| -------------- | ----------------------- |
-| Metrics        | Prometheus              |
-| Visualization  | Grafana                 |
-| Alerting       | Alertmanager            |
-| Kubernetes     | Metrics / Events        |
-| Logs           | Container / system logs |
-| Infrastructure | AWS monitoring          |
-| Application    | Custom metrics          |
-
-### Observability model
-
-```text
-                  APPLICATION
-                       │
-             ┌─────────┴─────────┐
-             │                   │
-           Metrics              Logs
-             │                   │
-             ▼                   ▼
-        Prometheus          Log Platform
-             │
-             ▼
-          Grafana
-             │
-             ▼
-        Alertmanager
-             │
-             ▼
-      Engineering Team
-```
-
-### Questions observability should answer
-
-> What failed?
-
-> When did it fail?
-
-> What changed?
-
-> Why did it fail?
-
-> Is the problem application, infrastructure, networking, or dependency related?
-
-> Is the system recovering?
-
----
-
-# 🔐 DevSecOps
-
-Security is part of the pipeline — not something added after deployment.
-
-```text
-                SOURCE CODE
-                     │
-                     ▼
-              ┌──────────────┐
-              │ Pull Request │
-              └──────┬───────┘
-                     │
-        ┌────────────┼────────────┐
-        ▼            ▼            ▼
-      Tests       Quality      Security
-        │            │            │
-        └────────────┼────────────┘
-                     ▼
-                  Build
-                     │
-                     ▼
-               Container
-                     │
-                     ▼
-               Registry
-                     │
-                     ▼
-                Kubernetes
-```
-
-Focus areas:
-
-* IAM
-* Least privilege
-* Secret handling
-* Secure CI/CD
-* Container security
-* Dependency security
-* Registry authentication
-* SSH-based authentication
-* Secure infrastructure
-* Security gates
-
----
-
-# 🧩 Technology Matrix
-
-## ☁️ Cloud
-
-| Technology |      Level | Focus              |
-| ---------- | ---------: | ------------------ |
-| AWS        | ██████████ | Cloud architecture |
-| Amazon EKS | ██████████ | Kubernetes         |
-| EC2        | ██████████ | Compute            |
-| VPC        | █████████░ | Networking         |
-| ALB        | █████████░ | Load balancing     |
-| ECR        | █████████░ | Containers         |
-| IAM        | █████████░ | Security           |
-
----
-
-## ☸️ Kubernetes
-
-| Technology  |      Level | Focus                   |
-| ----------- | ---------: | ----------------------- |
-| Kubernetes  | ██████████ | Container orchestration |
-| EKS         | ██████████ | Managed Kubernetes      |
-| Helm        | █████████░ | Packaging               |
-| HPA         | █████████░ | Pod autoscaling         |
-| KEDA        | ████████░░ | Event scaling           |
-| Karpenter   | ████████░░ | Node provisioning       |
-| Istio       | ███████░░░ | Service networking      |
-| Gateway API | ███████░░░ | Traffic management      |
-
----
-
-## 🚀 CI/CD
-
-| Technology     |      Level | Focus                |
-| -------------- | ---------: | -------------------- |
-| Jenkins        | ██████████ | Pipeline engineering |
-| Groovy         | ██████████ | Jenkins automation   |
-| GitHub Actions | █████████░ | CI automation        |
-| Docker         | ██████████ | Containerization     |
-| Nexus          | ████████░░ | Artifact management  |
-| ECR            | █████████░ | Image registry       |
-
----
-
-## 🏗️ Infrastructure
-
-| Technology |      Level | Focus                    |
-| ---------- | ---------: | ------------------------ |
-| Terraform  | █████████░ | Infrastructure as Code   |
-| Terragrunt | ████████░░ | IaC orchestration        |
-| Ansible    | ████████░░ | Configuration management |
-| Linux      | ██████████ | Server administration    |
-| Bash       | █████████░ | Automation               |
-| Git        | ██████████ | Source control           |
-
----
-
-## 📊 Observability
-
-| Technology         |      Level | Focus               |
-| ------------------ | ---------: | ------------------- |
-| Prometheus         | █████████░ | Metrics             |
-| Grafana            | █████████░ | Dashboards          |
-| Alertmanager       | ████████░░ | Alerting            |
-| Kubernetes Metrics | █████████░ | Platform monitoring |
-
-> **Note:** The matrix represents areas I actively work with and focus on, rather than formal certification scores.
-
----
-
-# 🛠️ Technology Stack
+🧭 Engineering Profile
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+☁️ Cloud Platform
+
+AWS · EKS · EC2 · VPC · IAM · ALB · ECR
+
+Designing secure, scalable and cost-conscious cloud infrastructure.
+
+</td>
+<td width="50%" valign="top">
+
+🏗️ Infrastructure as Code
+
+Terraform · Terragrunt · Ansible · Bash
+
+Infrastructure that is version-controlled, reproducible and automated.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🚀 CI/CD Engineering
+
+Jenkins · Groovy · GitHub Actions · Docker · Nexus
+
+Automated build, test, package, deployment and release workflows.
+
+</td>
+<td width="50%" valign="top">
+
+☸️ Kubernetes Platform
+
+EKS · Helm · HPA · KEDA · Karpenter · Istio · Gateway API
+
+Building platforms that scale workloads and infrastructure automatically.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+📊 Observability
+
+Prometheus · Grafana · Alertmanager · Metrics · Logs
+
+Making production systems measurable, diagnosable and reliable.
+
+</td>
+<td width="50%" valign="top">
+
+🔐 DevSecOps
+
+IAM · Least Privilege · Secure CI/CD · Container Security
+
+Security integrated throughout the software delivery lifecycle.
+
+</td>
+</tr>
+</table>
+
+👨‍💻 About Me
+
+I'm a DevOps Engineer focused on cloud infrastructure, CI/CD engineering, Kubernetes platforms, infrastructure automation, and production reliability.
+
+My approach goes beyond simply deploying applications. I focus on engineering systems where:
+
+Developers can ship faster
+
+Infrastructure is reproducible
+
+Deployments are automated
+
+Failures are observable
+
+Security is integrated into delivery
+
+Kubernetes workloads scale automatically
+
+Infrastructure costs are continuously optimized
+
+Operational tasks are replaced with automation
+
+Automate repetitive work. Measure everything important. Secure the delivery path. Design for failure. Fix root causes.
+
+🏗️ What I Build
 
 <div align="center">
 
-### Cloud & Infrastructure
+flowchart TD
+    A[👨‍💻 Developer] --> B[Git / Pull Request]
+    B --> C[CI Validation]
+    C --> C1[Unit Tests]
+    C --> C2[Coverage]
+    C --> C3[Quality Gates]
+    C --> C4[Security]
+    C --> D[🐳 Docker Build]
+    D --> E[📦 Container Registry]
+    E --> F[☸️ Amazon EKS]
+    F --> F1[Deployments]
+    F --> F2[Autoscaling]
+    F --> F3[Scheduling]
+    F --> F4[Rollout / Recovery]
+    F --> G[📊 Observability]
+    G --> G1[Metrics]
+    G --> G2[Logs]
+    G --> G3[Alerts]
+    G --> G4[Dashboards]
+
+</div>
+
+☁️ Cloud Architecture
+
+AWS
+
+My primary cloud focus is Amazon Web Services, particularly infrastructure supporting containerized applications and automated delivery.
+
+Domain
+
+Technologies
+
+Compute
+
+EC2
+
+Containers
+
+EKS, ECR
+
+Networking
+
+VPC, ALB, Private Subnets
+
+Identity
+
+IAM
+
+Infrastructure
+
+Terraform
+
+DNS
+
+Route 53
+
+Monitoring
+
+CloudWatch
+
+Scaling
+
+Auto Scaling, Karpenter
+
+Security
+
+IAM, Security Groups, Private Networking
+
+Delivery
+
+Jenkins, GitHub Actions, ECR
+
+AWS Platform View
+
+<div align="center">
+
+flowchart TB
+    Internet((Internet)) --> ALB[Application Load Balancer]
+    ALB --> VPC[VPC / Private Networking]
+    VPC --> EKS[Amazon EKS]
+
+    IAM[IAM / Policies] -.-> EKS
+    TF[Terraform] -.-> VPC
+    TF -.-> EKS
+
+    EKS --> Pods[Application Pods]
+    Karpenter[Karpenter] --> Nodes[EC2 Nodes]
+    Nodes --> Pods
+
+    Pods --> Prom[Prometheus]
+    Prom --> Grafana[Grafana]
+    Grafana --> Alerts[Alerting]
+
+</div>
+
+☸️ Kubernetes Engineering
+
+I work with Kubernetes from both the application workload and cluster infrastructure perspectives.
+
+Kubernetes Stack
+
+<table>
+<tr>
+<td align="center"><b>APPLICATION</b><br/><br/>Deployments<br/>StatefulSets<br/>Jobs<br/>CronJobs</td>
+<td align="center"><b>NETWORKING</b><br/><br/>Services<br/>Ingress<br/>Gateway API<br/>HTTPRoute</td>
+<td align="center"><b>SCALING</b><br/><br/>HPA<br/>KEDA<br/>Karpenter</td>
+</tr>
+<tr>
+<td colspan="3" align="center"><br/><b>OBSERVABILITY</b><br/><br/>Prometheus · Grafana · Metrics · Events · Alerting<br/><br/></td>
+</tr>
+</table>
+
+Kubernetes Areas
+
+Amazon EKS
+
+Kubernetes upgrades
+
+Deployments and rollouts
+
+Services and networking
+
+ConfigMaps and Secrets
+
+Health probes
+
+Resource requests and limits
+
+HPA
+
+KEDA
+
+Karpenter
+
+Helm
+
+Gateway API
+
+HTTPRoute
+
+Ingress
+
+Cluster add-ons
+
+Node scheduling
+
+Pod lifecycle
+
+Rolling deployments
+
+Rollbacks
+
+Troubleshooting
+
+Capacity planning
+
+Cost optimization
+
+📈 Kubernetes Scaling Strategy
+
+A production Kubernetes platform benefits from multiple layers of scaling.
+
+<div align="center">
+
+flowchart TD
+    Load[📈 Application Load] --> HPA[HPA<br/>Pod Scaling]
+    HPA --> KEDA[KEDA<br/>Event-driven Scaling]
+    KEDA --> Karpenter[Karpenter<br/>Node Provisioning]
+    Karpenter --> EC2[AWS EC2 Capacity]
+
+</div>
+
+Objective
+
+Scale workloads when required, provision infrastructure when required, and avoid paying for unnecessary capacity.
+
+🚀 CI/CD Architecture
+
+CI/CD is one of my strongest engineering areas.
+
+<div align="center">
+
+flowchart LR
+    Dev[Developer] --> Git[Git]
+    Git --> CI[CI Pipeline]
+    CI --> Test[Tests + Coverage]
+    Test --> Quality[Quality + Security]
+    Quality --> Docker[Docker Build]
+    Docker --> Registry[Container Registry]
+    Registry --> Deploy[Deploy to EKS]
+    Deploy --> Observe[Observe]
+    Observe --> Feedback[Feedback]
+    Feedback --> CI
+
+</div>
+
+Pipeline Capabilities
+
+Source checkout
+
+Dependency management
+
+Unit testing
+
+Coverage reporting
+
+Quality gates
+
+Security validation
+
+Docker image builds
+
+Registry publishing
+
+Kubernetes deployment
+
+Deployment approvals
+
+Rollout validation
+
+Notifications
+
+Observability
+
+🔥 Jenkins Engineering
+
+I work extensively with Jenkins and Groovy-based CI/CD automation.
+
+Jenkins Capabilities
+
+Area
+
+Focus
+
+Pipeline
+
+Declarative and scripted pipelines
+
+Automation
+
+Groovy and Shared Libraries
+
+Source
+
+Multibranch pipelines
+
+Jenkinsfiles
+
+Remote Jenkinsfiles
+
+Agents
+
+Dynamic / EC2-based agents
+
+Controls
+
+Approvals, locks and timeouts
+
+Artifacts
+
+Artifact publishing
+
+Containers
+
+Docker builds
+
+Registry
+
+ECR integration
+
+Notifications
+
+Slack
+
+Delivery
+
+Automated deployment workflows
+
+Operations
+
+Build and pipeline troubleshooting
+
+Jenkins Delivery Model
+
+<div align="center">
+
+flowchart LR
+    Jenkins[Jenkins] --> Build[Build]
+    Jenkins --> Test[Test]
+    Jenkins --> Security[Security]
+    Build --> Package[Package / Image]
+    Test --> Package
+    Security --> Package
+    Package --> Registry[Registry]
+    Registry --> Deploy[Deploy]
+    Deploy --> Validate[Validate]
+    Validate --> Notify[Notify / Monitor]
+
+</div>
+
+🐙 GitHub Actions
+
+I use GitHub Actions for repository-level CI and PR automation.
+
+Areas
+
+Pull Request validation
+
+Unit testing
+
+Code coverage
+
+Artifact publishing
+
+Self-hosted runners
+
+Branch-based workflows
+
+Quality gates
+
+CI automation
+
+Merge protection
+
+PR Quality Gate
+
+<div align="center">
+
+flowchart TD
+    PR[Pull Request] --> Actions[GitHub Actions]
+    Actions --> Checkout[Checkout]
+    Checkout --> Dependencies[Dependencies]
+    Dependencies --> Tests[Unit Tests]
+    Tests --> Coverage[Coverage]
+    Coverage --> Gate{Quality Gate}
+    Gate -->|FAIL| Block[🚫 Block Merge]
+    Gate -->|PASS| Continue[✅ Continue Workflow]
+
+</div>
+
+🐳 Container Engineering
+
+Docker Delivery Flow
+
+<div align="center">
+
+flowchart LR
+    Source[Source Code] --> Dockerfile[Dockerfile]
+    Dockerfile --> BuildKit[BuildKit]
+    BuildKit --> Private[Private Dependencies]
+    Private --> Image[Docker Image]
+    Image --> Registry[Registry]
+    Registry --> Kubernetes[Kubernetes]
+
+</div>
+
+Areas of Focus
+
+Dockerfile optimization
+
+Multi-stage builds
+
+BuildKit
+
+Private package dependencies
+
+SSH authentication
+
+Build arguments
+
+Environment management
+
+Image size optimization
+
+Container troubleshooting
+
+Docker Compose
+
+Registry authentication
+
+Runtime configuration
+
+🏗️ Infrastructure as Code
+
+Terraform
+
+Infrastructure should be:
+
+<div align="center">
+
+Version Controlled → Reviewable → Reproducible → Automated → Auditable
+
+</div>
+
+Terraform Areas
+
+AWS infrastructure
+
+EKS
+
+EC2
+
+IAM
+
+Networking
+
+Security groups
+
+Load balancers
+
+EKS add-ons
+
+Environment management
+
+Reusable modules
+
+Terragrunt
+
+DRY infrastructure
+
+Environment separation
+
+Remote state
+
+Reusable configurations
+
+Multi-environment deployments
+
+Ansible
+
+Server configuration
+
+Package installation
+
+Application configuration
+
+Operational automation
+
+Environment preparation
+
+📊 Observability & Reliability
+
+Production systems need visibility.
+
+Layer
+
+Tools
+
+Metrics
+
+Prometheus
+
+Visualization
+
+Grafana
+
+Alerting
+
+Alertmanager
+
+Kubernetes
+
+Metrics / Events
+
+Logs
+
+Container / System Logs
+
+Infrastructure
+
+AWS Monitoring
+
+Application
+
+Custom Metrics
+
+Observability Model
+
+<div align="center">
+
+flowchart LR
+    App[Application] --> Metrics[Metrics]
+    App --> Logs[Logs]
+    Metrics --> Prom[Prometheus]
+    Prom --> Grafana[Grafana]
+    Logs --> LogPlatform[Log Platform]
+    Grafana --> Alertmanager[Alertmanager]
+    Alertmanager --> Team[Engineering Team]
+
+</div>
+
+Questions Observability Should Answer
+
+What failed?
+When did it fail?
+What changed?
+Why did it fail?
+Is the issue application, infrastructure, networking, or dependency related?
+Is the system recovering?
+
+🔐 DevSecOps
+
+Security is part of the pipeline — not something added after deployment.
+
+<div align="center">
+
+flowchart LR
+    Source[Source Code] --> PR[Pull Request]
+    PR --> Tests[Tests]
+    PR --> Quality[Quality]
+    PR --> Security[Security]
+    Tests --> Build[Build]
+    Quality --> Build
+    Security --> Build
+    Build --> Container[Container]
+    Container --> Registry[Registry]
+    Registry --> Kubernetes[Kubernetes]
+
+</div>
+
+Focus Areas
+
+IAM
+
+Least privilege
+
+Secret handling
+
+Secure CI/CD
+
+Container security
+
+Dependency security
+
+Registry authentication
+
+SSH-based authentication
+
+Secure infrastructure
+
+Security gates
+
+🧩 Technology Matrix
+
+☁️ Cloud
+
+Technology
+
+Focus
+
+AWS
+
+Cloud architecture
+
+Amazon EKS
+
+Kubernetes
+
+EC2
+
+Compute
+
+VPC
+
+Networking
+
+ALB
+
+Load balancing
+
+ECR
+
+Container registry
+
+IAM
+
+Security
+
+☸️ Kubernetes
+
+Technology
+
+Focus
+
+Kubernetes
+
+Container orchestration
+
+EKS
+
+Managed Kubernetes
+
+Helm
+
+Packaging
+
+HPA
+
+Pod autoscaling
+
+KEDA
+
+Event scaling
+
+Karpenter
+
+Node provisioning
+
+Istio
+
+Service networking
+
+Gateway API
+
+Traffic management
+
+🚀 CI/CD
+
+Technology
+
+Focus
+
+Jenkins
+
+Pipeline engineering
+
+Groovy
+
+Jenkins automation
+
+GitHub Actions
+
+CI automation
+
+Docker
+
+Containerization
+
+Nexus
+
+Artifact management
+
+ECR
+
+Image registry
+
+🏗️ Infrastructure
+
+Technology
+
+Focus
+
+Terraform
+
+Infrastructure as Code
+
+Terragrunt
+
+IaC orchestration
+
+Ansible
+
+Configuration management
+
+Linux
+
+Server administration
+
+Bash
+
+Automation
+
+Git
+
+Source control
+
+📊 Observability
+
+Technology
+
+Focus
+
+Prometheus
+
+Metrics
+
+Grafana
+
+Dashboards
+
+Alertmanager
+
+Alerting
+
+Kubernetes Metrics
+
+Platform monitoring
+
+The matrix represents areas I actively work with and focus on, rather than formal certification scores.
+
+🛠️ Technology Stack
+
+<div align="center">
+
+Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" />
 
-### Containers & Kubernetes
+Containers & Kubernetes
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
 
-### CI/CD & Source Control
+CI/CD & Source Control
 
 <img src="https://skillicons.dev/icons?i=jenkins,github,git" />
 
-### Languages & Automation
+Languages & Automation
 
 <img src="https://skillicons.dev/icons?i=groovy,bash,python,go,js" />
 
-### Monitoring
+Monitoring
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 </div>
 
----
-
-# 📂 Featured Projects
+📂 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 Jenkins Engineering
+🔥 Jenkins Engineering
 
 <a href="https://github.com/ramdrazler1/lm-jenkins">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramdrazler1&repo=lm-jenkins&theme=tokyonight&hide_border=true" />
 </a>
 
-**Groovy · Jenkins · CI/CD**
+Groovy · Jenkins · CI/CD
 
 Pipeline engineering and Jenkins automation experiments.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### ☁️ DevOps Portfolio
+☁️ DevOps Portfolio
 
 <a href="https://github.com/ramdrazler1/devops-portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramdrazler1&repo=devops-portfolio&theme=tokyonight&hide_border=true" />
 </a>
 
-**HTML · DevOps**
+HTML · DevOps
 
 Personal DevOps portfolio and engineering showcase.
 
@@ -768,29 +881,28 @@ Personal DevOps portfolio and engineering showcase.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Code Coverage
+🧪 Code Coverage
 
 <a href="https://github.com/ramdrazler1/code-cov">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramdrazler1&repo=code-cov&theme=tokyonight&hide_border=true" />
 </a>
 
-**Go · Testing · Coverage**
+Go · Testing · Coverage
 
 Automated code coverage experimentation.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 📊 Node.js Coverage
+📊 Node.js Coverage
 
 <a href="https://github.com/ramdrazler1/nodejs-coverage">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramdrazler1&repo=nodejs-coverage&theme=tokyonight&hide_border=true" />
 </a>
 
-**Node.js · JavaScript · Testing**
+Node.js · JavaScript · Testing
 
 Node.js testing and coverage implementation.
 
@@ -798,29 +910,28 @@ Node.js testing and coverage implementation.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 APM
+🧪 APM
 
 <a href="https://github.com/ramdrazler1/apm">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramdrazler1&repo=apm&theme=tokyonight&hide_border=true" />
 </a>
 
-**JavaScript**
+JavaScript
 
 Application experimentation and testing.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🌐 Iqube
+🌐 Iqube
 
 <a href="https://github.com/ramdrazler1/Iqube">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramdrazler1&repo=Iqube&theme=tokyonight&hide_border=true" />
 </a>
 
-**HTML · CSS**
+HTML · CSS
 
 Web application project.
 
@@ -830,139 +941,138 @@ Web application project.
 
 </div>
 
----
+🧠 Architecture Principles
 
-# 🧠 Architecture Principles
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 01 · Automation First
+01 · Automation First
 
 If a task happens repeatedly, automate it.
 
-### 02 · Infrastructure as Code
+02 · Infrastructure as Code
 
 Infrastructure should be reproducible and version controlled.
 
-### 03 · Security by Default
+03 · Security by Default
 
 Security should be built into the delivery lifecycle.
 
-### 04 · Observable by Design
+04 · Observable by Design
 
 If a system cannot tell us what happened, it is difficult to operate.
 
-### 05 · Design for Failure
+</td>
+<td width="50%" valign="top">
+
+05 · Design for Failure
 
 Production systems should assume components can fail.
 
-### 06 · Scale Automatically
+06 · Scale Automatically
 
 Applications and infrastructure should scale based on demand.
 
-### 07 · Optimize Continuously
+07 · Optimize Continuously
 
 Performance, reliability, developer experience, and cloud cost should continuously improve.
 
----
+</td>
+</tr>
+</table>
 
-# 🧪 Troubleshooting Philosophy
+🧪 Troubleshooting Philosophy
 
 I enjoy solving complex infrastructure problems.
 
-My typical troubleshooting approach:
-
-```text
-                    INCIDENT
-                       │
-                       ▼
-                  Collect Data
-                       │
-              ┌────────┼────────┐
-              │        │        │
-            Logs     Metrics   Events
-              │        │        │
-              └────────┼────────┘
-                       │
-                       ▼
-                 Form Hypothesis
-                       │
-                       ▼
-                  Reproduce
-                       │
-                       ▼
-                  Root Cause
-                       │
-                       ▼
-                 Fix the Issue
-                       │
-                       ▼
-               Automate Prevention
-                       │
-                       ▼
-                Monitor the Fix
-```
-
-### I don't just ask:
-
-> "How do I make this work?"
-
-I prefer asking:
-
-> **"Why did this fail, and how do I prevent the same failure from happening again?"**
-
----
-
-# 🎓 Certifications
-
-## Cloud / DevOps Certifications
-
-> **Add verified certifications here as they are earned.**
-
-| Certification                      | Provider  | Status              |
-| ---------------------------------- | --------- | ------------------- |
-| AWS Certified Solutions Architect  | AWS       | 🔄 Planned / Verify |
-| AWS Certified DevOps Engineer      | AWS       | 🔄 Planned / Verify |
-| Certified Kubernetes Administrator | CNCF      | 🔄 Planned / Verify |
-| Terraform Associate                | HashiCorp | 🔄 Planned / Verify |
-
-### Certification philosophy
-
-Certifications are valuable, but I place equal importance on **hands-on production engineering, troubleshooting, architecture, automation, and operational experience**.
-
-> Replace the entries above with your actual certifications before publishing. Do not claim a certification unless you have earned it.
-
----
-
-# 📈 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramdrazler1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdrazler1&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
+flowchart TD
+    Incident[🚨 Incident] --> Data[Collect Data]
+    Data --> Logs[Logs]
+    Data --> Metrics[Metrics]
+    Data --> Events[Events]
+    Logs --> Hypothesis[Form Hypothesis]
+    Metrics --> Hypothesis
+    Events --> Hypothesis
+    Hypothesis --> Reproduce[Reproduce]
+    Reproduce --> RCA[Root Cause]
+    RCA --> Fix[Fix]
+    Fix --> Prevent[Automate Prevention]
+    Prevent --> Monitor[Monitor the Fix]
 
 </div>
 
-<br/>
+I don't just ask:
+
+"How do I make this work?"
+
+I prefer asking:
+
+"Why did this fail, and how do I prevent the same failure from happening again?"
+
+🎓 Certifications
+
+Cloud / DevOps Certifications
+
+Add verified certifications here as they are earned.
+
+Certification
+
+Provider
+
+Status
+
+AWS Certified Solutions Architect
+
+AWS
+
+🔄 Planned / Verify
+
+AWS Certified DevOps Engineer
+
+AWS
+
+🔄 Planned / Verify
+
+Certified Kubernetes Administrator
+
+CNCF
+
+🔄 Planned / Verify
+
+Terraform Associate
+
+HashiCorp
+
+🔄 Planned / Verify
+
+Replace the entries above with actual certifications before publishing. Do not claim a certification unless it has been earned.
+
+📈 GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramdrazler1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdrazler1&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ramdrazler1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 
 </div>
 
----
-
-# 🟩 Contribution Graph
+🟩 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramdrazler1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramdrazler1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <div align="center">
 
@@ -970,30 +1080,62 @@ Certifications are valuable, but I place equal importance on **hands-on producti
 
 </div>
 
----
+📊 Engineering Focus
 
-# 📊 Engineering Focus
+Area
 
-```text
-Cloud Infrastructure       ████████████████████  100%
-CI/CD Engineering          ████████████████████  100%
-Kubernetes                 ███████████████████░   95%
-Docker                     ███████████████████░   95%
-Terraform                  ██████████████████░░   90%
-Jenkins                    ████████████████████  100%
-GitHub Actions             ██████████████████░░   90%
-Linux                      ████████████████████  100%
-Observability              █████████████████░░░   85%
-Automation                 ████████████████████  100%
-DevSecOps                  ████████████████░░░░   80%
-Platform Engineering       ███████████████░░░░░   75%
-```
+Focus
 
----
+Cloud Infrastructure
 
-# 🚀 Current Engineering Focus
+████████████████████ 100%
 
-```yaml
+CI/CD Engineering
+
+████████████████████ 100%
+
+Kubernetes
+
+███████████████████░ 95%
+
+Docker
+
+███████████████████░ 95%
+
+Terraform
+
+██████████████████░░ 90%
+
+Jenkins
+
+████████████████████ 100%
+
+GitHub Actions
+
+██████████████████░░ 90%
+
+Linux
+
+████████████████████ 100%
+
+Observability
+
+█████████████████░░░ 85%
+
+Automation
+
+████████████████████ 100%
+
+DevSecOps
+
+████████████████░░░░ 80%
+
+Platform Engineering
+
+███████████████░░░░░ 75%
+
+🚀 Current Engineering Focus
+
 current_focus:
 
   cloud:
@@ -1034,167 +1176,118 @@ current_focus:
     - DevSecOps
     - Reliability
     - Automation
-```
 
----
+🔭 What I'm Building Toward
 
-# 🔭 What I'm Building Toward
+My long-term goal is to move beyond individual pipelines and infrastructure components toward complete internal developer platforms.
 
-My long-term goal is to move beyond individual pipelines and infrastructure components toward **complete internal developer platforms**.
+<div align="center">
 
-```text
-                    DEVELOPER
-                        │
-                        ▼
-                 Developer Portal
-                        │
-                        ▼
-                Service Templates
-                        │
-                        ▼
-              ┌──────────────────┐
-              │     PLATFORM      │
-              ├──────────────────┤
-              │ CI/CD             │
-              │ Infrastructure    │
-              │ Kubernetes        │
-              │ Security          │
-              │ Observability     │
-              │ Cost Management   │
-              └────────┬─────────┘
-                       │
-                       ▼
-                  PRODUCTION
-```
+flowchart TD
+    Developer[👨‍💻 Developer] --> Portal[Developer Portal]
+    Portal --> Templates[Service Templates]
+    Templates --> Platform[Internal Developer Platform]
 
-The objective:
+    Platform --> CI[CI/CD]
+    Platform --> Infra[Infrastructure]
+    Platform --> K8s[Kubernetes]
+    Platform --> Security[Security]
+    Platform --> Observability[Observability]
+    Platform --> Cost[Cost Management]
 
-> **Give developers a paved road from code to production without requiring them to become infrastructure experts.**
+    CI --> Production[🚀 Production]
+    Infra --> Production
+    K8s --> Production
+    Security --> Production
+    Observability --> Production
+    Cost --> Production
 
----
+</div>
 
-# ⚙️ My DevOps Lifecycle
+Platform Engineering Objective
 
-```text
-                    PLAN
-                     │
-                     ▼
-                    CODE
-                     │
-                     ▼
-                   BUILD
-                     │
-                     ▼
-                   TEST
-                     │
-                     ▼
-                  SECURE
-                     │
-                     ▼
-                 PACKAGE
-                     │
-                     ▼
-                  DEPLOY
-                     │
-                     ▼
-                 OBSERVE
-                     │
-                     ▼
-                 OPTIMIZE
-                     │
-                     ▼
-                  REPEAT
-                     │
-                     └───────────────► ♻️
-```
+Give developers a paved road from code to production without requiring them to become infrastructure experts.
 
----
+⚙️ My DevOps Lifecycle
 
-# 🌐 Engineering Interests
+<div align="center">
 
-* ☁️ Cloud Architecture
-* ☸️ Kubernetes Platform Engineering
-* 🚀 CI/CD Architecture
-* 🏗️ Infrastructure as Code
-* 🔐 DevSecOps
-* 📊 Observability
-* 📈 Autoscaling
-* 🐳 Container Platforms
-* ⚙️ Infrastructure Automation
-* 💰 Cloud Cost Optimization
-* 🔄 GitOps
-* 🧩 Internal Developer Platforms
-* 🛡️ Reliability Engineering
+PLAN → CODE → BUILD → TEST → SECURE → PACKAGE → DEPLOY → OBSERVE → OPTIMIZE → ♻️
 
----
+</div>
 
-# 📚 Continuous Learning
+🌐 Engineering Interests
+
+<table>
+<tr>
+<td>☁️ Cloud Architecture</td>
+<td>☸️ Kubernetes Platform Engineering</td>
+<td>🚀 CI/CD Architecture</td>
+</tr>
+<tr>
+<td>🏗️ Infrastructure as Code</td>
+<td>🔐 DevSecOps</td>
+<td>📊 Observability</td>
+</tr>
+<tr>
+<td>📈 Autoscaling</td>
+<td>🐳 Container Platforms</td>
+<td>⚙️ Infrastructure Automation</td>
+</tr>
+<tr>
+<td>💰 Cloud Cost Optimization</td>
+<td>🔄 GitOps</td>
+<td>🧩 Internal Developer Platforms</td>
+</tr>
+<tr>
+<td>🛡️ Reliability Engineering</td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+📚 Continuous Learning
 
 Technology changes quickly.
 
-My learning approach is:
+<div align="center">
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Troubleshoot
-  ↓
-Understand
-  ↓
-Automate
-  ↓
-Document
-  ↓
-Repeat
-```
+Learn → Build → Break → Troubleshoot → Understand → Automate → Document → Repeat
 
-I prefer **hands-on experimentation over simply reading documentation**.
+</div>
 
----
+I prefer hands-on experimentation over simply reading documentation.
 
-# 🤝 Let's Connect
+🤝 Let's Connect
 
 I'm interested in conversations around:
 
-**AWS · Kubernetes · DevOps · CI/CD · Terraform · Jenkins · Docker · Platform Engineering · Observability · Cloud Architecture**
+AWS · Kubernetes · DevOps · CI/CD · Terraform · Jenkins · Docker · Platform Engineering · Observability · Cloud Architecture
 
 <div align="center">
 
 <a href="https://github.com/ramdrazler1">
-<img src="https://img.shields.io/badge/GitHub-ramdrazler1-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-ramdrazler1-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
----
-
-# ⚡ Engineering Motto
+⚡ Engineering Motto
 
 <div align="center">
 
-### `AUTOMATE EVERYTHING THAT SHOULD BE AUTOMATED.`
+AUTOMATE EVERYTHING THAT SHOULD BE AUTOMATED.
 
-### `OBSERVE EVERYTHING THAT MATTERS.`
+OBSERVE EVERYTHING THAT MATTERS.
 
-### `DESIGN FOR FAILURE.`
+DESIGN FOR FAILURE.
 
-### `KEEP IMPROVING.`
+KEEP IMPROVING.
 
 <br/>
 
-**🚀 Build → Automate → Secure → Deploy → Observe → Improve**
+🚀 Build → Automate → Secure → Deploy → Observe → Improve
 
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 👋
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ramdrazler1&style=for-the-badge&color=0e75b6" />
 
